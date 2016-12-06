@@ -3,4 +3,4 @@ Sort entity with a very simple API: Craete Sort or Pageable objects easily while
 
 # principles
 1. Never believe clients' inputs.
-2. Guarantee outputs as possible as code can do even incorrect inputs.
+2. Guarantee outputs as possible as codes can do even incorrect inputs.
