@@ -1,2 +1,6 @@
 # jpa-sortable
-sort jpa entity with a very simple API: While use a annotion Sortable tag fields of enetity, then can craete Sort or Pageable objects easily!
+Sort entity with a very simple API: Craete Sort or Pageable objects easily while entity annotated by @Sortable.
+
+# principles
+1. Never believe clients' inputs.
+2. Guarantee outputs as possible as code can do even error inputs.
